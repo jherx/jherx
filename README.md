@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @jherx (Gers)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jherx/jherx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Gerson Santos 
+-    I’m from Mexico city
+- 👀 I’m interested in in web development
+- 🌱 I am currently learning javascript by myself
+- 💞️ I am looking to collaborate with a development company
+- 📫 Contact via Instagram @jhxn07
